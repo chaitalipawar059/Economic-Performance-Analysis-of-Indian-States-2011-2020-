@@ -8,3 +8,5 @@
 - Publish cleaned datasets and data dictionary for reuse by researchers and developers.
 - Offer an interactive dashboard and downloadable reports to aid policy and investment decisions.
 - Maintain automated data checks and documentation to ensure transparency and reproducibility.
+
+<img width="1288" height="723" alt="image" src="https://github.com/user-attachments/assets/b9bad373-6c4e-40dc-a166-7ac26b1699a6" />
